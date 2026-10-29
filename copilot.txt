@@ -1,0 +1,26 @@
+Hello [firstname,fallback=there],
+
+Microsoft Copilot is built into Word, Excel, PowerPoint, Outlook and Teams. This beginner session shows practical ways to use it for everyday work, and how to use it responsibly.
+
+- Writing clear prompts that get useful results
+- Summarizing Outlook threads and Teams meetings
+- Drafting in Word and analyzing data in Excel
+
+Getting Started with Microsoft Copilot
+Presenter: Derek Henry, CPA
+Date: Nov 6, 2026, 01:00 PM EST
+Duration: 100 minutes
+
+View the program: https://msausaconnect.com/conference/getting-started-with-microsoft-copilot-1776238583429
+
+Who benefits: HR professionals, managers, team leaders, administrators and anyone who works in Microsoft 365.
+
+Reply to this email with questions, or call +1-(877) 629-3710.
+
+Regards,
+Cathy Horwitz
+MSA USA Connect
+
+MSA USA Connect, 1 Corporate place suite 120, Piscataway, NJ 08854, USA
+cs@msausaconnect.com | +1-(877) 629-3710
+Unsubscribe: [unsubscribe]
