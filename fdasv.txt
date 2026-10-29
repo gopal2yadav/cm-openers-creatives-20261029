@@ -4,7 +4,7 @@ FDA expectations for software verification and validation keep rising. This 90-m
 
 - IEC 62304 and the FDA 10-document model
 - A typical software V&V protocol and test report
-- Sample V&V test cases and AI prompts
+- Part 11, cybersecurity and cloud software
 
 FDA New Software Validation Requirements
 Presenter: John E. Lincoln
