@@ -1,0 +1,25 @@
+Hello [firstname,fallback=there],
+
+A practical session on building and using a product risk management file under ISO 14971:2019 for devices and ICH Q9 for pharma, with templates you can adapt.
+
+- Key changes in ISO 14971:2019 and ICH Q9 basics
+- Hazard analysis, FMECA and fault tree analysis
+- Residual risk and benefit/risk documentation
+
+Device and Pharma Patient / User Risk Management
+Presenter: John E. Lincoln
+Date: Nov 13, 2026, 1:00 PM EST
+Format: 90-minute live webinar
+
+View details and register: https://conferencepanel.com/conference/device-and-pharma-patient-user-risk-management
+
+Who benefits: QA, RA, R&D, engineering, production and senior management in drug, device and biologics companies.
+
+Questions? Reply to this email or call +1-(877) 629-3710.
+
+Regards,
+Conference Panel
+
+Conference Panel, 1 Corporate place suite 120, Piscataway, NJ 08854, USA
+cs@conferencepanel.com | +1-(877) 629-3710
+Unsubscribe: [unsubscribe]
