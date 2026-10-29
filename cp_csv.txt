@@ -1,0 +1,25 @@
+Hello [firstname,fallback=there],
+
+A one-day, hands-on seminar on validating FDA-regulated computer systems, from traditional CSV to the newer CSA approach, including cloud, SaaS and AI-enabled software.
+
+- Moving from CSV to CSA without losing compliance
+- 21 CFR Part 11 and data integrity (ALCOA+)
+- Validating AI-enabled applications and inspection readiness
+
+Computer System Validation (CSV) Boot Camp
+Presenter: Carolyn Troiano
+Date: Nov 13, 2026, 9:00 AM - 5:00 PM EST (in person, Piscataway, NJ)
+Format: One-day in-person seminar
+
+View details and register: https://conferencepanel.com/seminar-detail/computer-system-validation-csv-boot-camp
+
+Who benefits: QA/QC, validation, IT, regulatory and lab teams in pharma, biotech and medical devices.
+
+Questions? Reply to this email or call +1-(877) 629-3710.
+
+Regards,
+Conference Panel
+
+Conference Panel, 1 Corporate place suite 120, Piscataway, NJ 08854, USA
+cs@conferencepanel.com | +1-(877) 629-3710
+Unsubscribe: [unsubscribe]

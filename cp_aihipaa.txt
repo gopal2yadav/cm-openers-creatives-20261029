@@ -1,0 +1,25 @@
+Hello [firstname,fallback=there],
+
+Many everyday applications now include AI features that can quietly process PHI. This session shows how to find those tools and manage the HIPAA risk.
+
+- Common software with embedded AI
+- How non-healthcare apps capture PHI
+- AI vendor contracts and Business Associate Agreements
+
+AI-Embedded Software Risks for HIPAA-Regulated Entities
+Presenter: Paul R. Hales, J.D.
+Date: Nov 12, 2026, 1:00 PM EST
+Format: 60-minute live webinar
+
+View details and register: https://conferencepanel.com/conference/ai-embedded-software-risks-for-hipaa-regulated-entities
+
+Who benefits: Privacy and security officers, practice managers, health IT and risk managers.
+
+Questions? Reply to this email or call +1-(877) 629-3710.
+
+Regards,
+Conference Panel
+
+Conference Panel, 1 Corporate place suite 120, Piscataway, NJ 08854, USA
+cs@conferencepanel.com | +1-(877) 629-3710
+Unsubscribe: [unsubscribe]
