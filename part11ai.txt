@@ -1,0 +1,26 @@
+Hello [firstname,fallback=there],
+
+FDA is looking closely at how electronic records, e-signatures and AI-enabled software are validated. This 90-minute session shows a simple, risk-based approach to Part 11 software V&V.
+
+- Current Part 11 and AI audit focus areas
+- When to use IQ, OQ and PQ
+- Sample V&V test cases and AI prompts
+
+21 CFR Part 11 and AI
+Presenter: John E. Lincoln
+Date: Nov 5, 2026, 01:00 PM EST
+Duration: 90 minutes
+
+View the program: https://msausaconnect.com/conference/21-cfr-part-11-and-ai
+
+Who benefits: QA, RA, R&D, engineering and operations teams in drugs, devices and biologics.
+
+Reply to this email with questions, or call +1-(877) 629-3710.
+
+Regards,
+Cathy Horwitz
+MSA USA Connect
+
+MSA USA Connect, 1 Corporate place suite 120, Piscataway, NJ 08854, USA
+cs@msausaconnect.com | +1-(877) 629-3710
+Unsubscribe: [unsubscribe]
