@@ -1,0 +1,26 @@
+Hello [firstname,fallback=there],
+
+CMS is raising its QAPI expectations for 2026. This 60-minute session shows how to build a QAPI program that holds up in surveys and improves care quality.
+
+- Structuring a QAPI framework for 2026 CMS rules
+- Reliable data collection and validation
+- Performance improvement projects that show results
+
+CMS QAPI 2026: Strong Systems for Compliance and Quality Improvement
+Presenter: Dr. Michael C. Redmond
+Date: Nov 6, 2026, 01:00 PM EST
+Duration: 60 minutes
+
+View the program: https://msausaconnect.com/conference/cms-qapi-2026-strong-system-for-compliance-and-quality-improvement
+
+Who benefits: Administrators, directors of nursing, quality, compliance and risk leaders.
+
+Reply to this email with questions, or call +1-(877) 629-3710.
+
+Regards,
+Cathy Horwitz
+MSA USA Connect
+
+MSA USA Connect, 1 Corporate place suite 120, Piscataway, NJ 08854, USA
+cs@msausaconnect.com | +1-(877) 629-3710
+Unsubscribe: [unsubscribe]
