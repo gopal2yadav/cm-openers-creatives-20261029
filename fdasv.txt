@@ -1,0 +1,26 @@
+Hello [firstname,fallback=there],
+
+FDA expectations for software verification and validation keep rising. This 90-minute session shows how to plan, document and run software V&V using IEC 62304 and the current FDA guidance.
+
+- IEC 62304 and the FDA 10-document model
+- A typical software V&V protocol and test report
+- Sample V&V test cases and AI prompts
+
+FDA New Software Validation Requirements
+Presenter: John E. Lincoln
+Date: Nov 6, 2026, 01:00 PM EST
+Duration: 90 minutes
+
+View the program: https://msausaconnect.com/conference/fda-new-software-validation-requirements
+
+Who benefits: QA, RA, engineering, R&D and software teams in FDA-regulated companies.
+
+Reply to this email with questions, or call +1-(877) 629-3710.
+
+Regards,
+Cathy Horwitz
+MSA USA Connect
+
+MSA USA Connect, 1 Corporate place suite 120, Piscataway, NJ 08854, USA
+cs@msausaconnect.com | +1-(877) 629-3710
+Unsubscribe: [unsubscribe]
