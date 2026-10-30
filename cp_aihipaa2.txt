@@ -1,0 +1,25 @@
+Hello [firstname,fallback=there],
+
+Most HIPAA-regulated entities already use AI built into everyday software and web applications. This session explains the privacy and security risks this creates and how to manage them under HIPAA.
+
+- Where AI is already embedded in your software
+- HIPAA risk analysis for AI-enabled tools
+- Vendor agreements and practical safeguards
+
+AI-Embedded Software Risks for HIPAA-Regulated Entities
+Presenter: Paul R. Hales
+Date: Nov 12, 2026, 1:00 PM EST
+Format: 60-minute live webinar
+
+View details and register: https://conferencepanel.com/conference/ai-embedded-software-risks-for-hipaa-regulated-entities
+
+Who benefits: Privacy and security officers, compliance staff, IT and health care administrators.
+
+Questions? Reply to this email or call +1-(877) 629-3710.
+
+Regards,
+Conference Panel
+
+Conference Panel, 1 Corporate place suite 120, Piscataway, NJ 08854, USA
+cs@conferencepanel.com | +1-(877) 629-3710
+Unsubscribe: [unsubscribe]
