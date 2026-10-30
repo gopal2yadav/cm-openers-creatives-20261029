@@ -1,0 +1,26 @@
+Hello [firstname,fallback=there],
+
+The 2027 Nacha Operating Rule updates touch IAT processing, contact registration, accepted characters in ACH records and the higher Same Day ACH limit. This full-day seminar turns those changes into a practical implementation plan for operations, compliance, risk and technology teams.
+
+- Confirmed 2027 changes and their effective dates
+- ACH Contact Registry and IAT requirements
+- Testing and coordination with processors and vendors
+- Procedures, controls and audit documentation
+
+2027 NACHA Rule Updates: Operational Impacts, Compliance Requirements and Implementation Planning
+Instructor: Justin Muscolino
+Date: November 12, 2026, 8:30 AM to 5:00 PM EST
+Format: In-person seminar, World Trade Center, New York
+
+View details and register: https://conferencepanel.com/seminar-detail/2027-nacha-rule-updates-operational-impacts-compliance-requirements-and-implementation-planning
+
+Who benefits: ACH operations, payments, treasury, compliance, risk and audit professionals.
+
+Questions? Reply to this email or call +1-(877) 629-3710.
+
+Regards,
+Conference Panel
+
+Conference Panel, 1 Corporate place suite 120, Piscataway, NJ 08854, USA
+cs@conferencepanel.com | +1-(877) 629-3710
+Unsubscribe: [unsubscribe]
