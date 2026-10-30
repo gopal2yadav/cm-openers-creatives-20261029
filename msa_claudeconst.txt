@@ -1,0 +1,25 @@
+Hello [firstname,fallback=there],
+
+Estimators spend much of each bid reading scope documents and writing proposals. This recorded session shows how Claude can help with those document-heavy steps, using sample construction documents, and where professional judgment still has to take over.
+
+- Reviewing scope-of-work documents and RFPs for gaps
+- Drafting estimate narratives, clarifications and cover letters
+- Building reusable estimating templates and prompts
+
+Claude for Construction Estimation
+Presenter: Soundarya J
+Format: On-demand recording, watch any time
+Duration: 60 minutes
+
+Details: https://msausaconnect.com/conference/claude-for-construction-estimation
+
+Who benefits: estimators, preconstruction managers, project managers and bid coordinators. No prior AI experience is needed.
+
+Reply to this email with questions, or call +1-(877) 629-3710.
+
+Regards,
+Cathy Horwitz
+MSA USA Connect
+
+MSA USA Connect, 1 Corporate place suite 120, Piscataway, NJ 08854, USA
+To unsubscribe: [unsubscribe]
