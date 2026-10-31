@@ -11,7 +11,7 @@ Presenter: Paul R. Hales
 Date: Nov 12, 2026, 1:00 PM EST
 Format: 60-minute live webinar
 
-View details and register: https://conferencepanel.com/conference/ai-embedded-software-risks-for-hipaa-regulated-entities
+View details and register: use the button in the HTML version of this email, or reply to this email.
 
 Who benefits: Privacy and security officers, compliance staff, IT and health care administrators.
 
@@ -21,5 +21,5 @@ Regards,
 Conference Panel
 
 Conference Panel, 1 Corporate place suite 120, Piscataway, NJ 08854, USA
-cs@conferencepanel.com | +1-(877) 629-3710
++1-(877) 629-3710
 Unsubscribe: [unsubscribe]

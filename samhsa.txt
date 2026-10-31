@@ -11,7 +11,7 @@ Presenter: Mark Brengelman
 Date: Nov 5, 2026, 01:00 PM EST
 Duration: 60 minutes
 
-View the program: https://msausaconnect.com/conference/samhsa-funding-for-2026-the-new-push-to-address-substance-use-disorder
+View the program: use the button in the HTML version of this email, or reply to this email.
 
 Who benefits: Health care attorneys, primary care physicians, SUD treatment professionals, and HIPAA and nursing leaders.
 
@@ -22,5 +22,5 @@ Cathy Horwitz
 MSA USA Connect
 
 MSA USA Connect, 1 Corporate place suite 120, Piscataway, NJ 08854, USA
-cs@msausaconnect.com | +1-(877) 629-3710
++1-(877) 629-3710
 Unsubscribe: [unsubscribe]

@@ -11,7 +11,7 @@ Presenter: Marcia Zidle
 Date: Tomorrow, Oct 30, 2026, 1:00 PM EST
 Format: 60-minute live webinar
 
-View details and register: https://conferencepanel.com/conference/the-manager-and-hr-communication-playbook
+View details and register: use the button in the HTML version of this email, or reply to this email.
 
 Who benefits: Managers, supervisors, team leaders and HR professionals.
 
@@ -21,5 +21,5 @@ Regards,
 Conference Panel
 
 Conference Panel, 1 Corporate place suite 120, Piscataway, NJ 08854, USA
-cs@conferencepanel.com | +1-(877) 629-3710
++1-(877) 629-3710
 Unsubscribe: [unsubscribe]

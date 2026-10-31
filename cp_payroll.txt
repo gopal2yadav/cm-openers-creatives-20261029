@@ -11,7 +11,7 @@ Presenter: Mark Schwartz
 Date: Tomorrow, Oct 30, 2026, 1:00 PM EST
 Format: 90-minute live webinar
 
-View details and register: https://conferencepanel.com/conference/payroll-related-fraud-how-to-avoid-having-your-own-employees-rip-you-off-2026
+View details and register: use the button in the HTML version of this email, or reply to this email.
 
 Who benefits: Payroll and HR staff, controllers, business owners and internal auditors.
 
@@ -21,5 +21,5 @@ Regards,
 Conference Panel
 
 Conference Panel, 1 Corporate place suite 120, Piscataway, NJ 08854, USA
-cs@conferencepanel.com | +1-(877) 629-3710
++1-(877) 629-3710
 Unsubscribe: [unsubscribe]

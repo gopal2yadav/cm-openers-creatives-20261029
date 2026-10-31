@@ -11,7 +11,7 @@ Presenter: John E. Lincoln
 Date: Nov 6, 2026, 01:00 PM EST
 Duration: 90 minutes
 
-View the program: https://msausaconnect.com/conference/fda-new-software-validation-requirements
+View the program: use the button in the HTML version of this email, or reply to this email.
 
 Who benefits: QA, RA, engineering, R&D and software teams in FDA-regulated companies.
 
@@ -22,5 +22,5 @@ Cathy Horwitz
 MSA USA Connect
 
 MSA USA Connect, 1 Corporate place suite 120, Piscataway, NJ 08854, USA
-cs@msausaconnect.com | +1-(877) 629-3710
++1-(877) 629-3710
 Unsubscribe: [unsubscribe]
